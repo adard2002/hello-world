@@ -15,12 +15,12 @@ _This is an italics_
 
 - this is a cool thing
 
-[]check here .
+[x]check here.
 
 > this is words.
 ```js
 var variable = new Pet(); 
 ```
-
+# just testing something
 
 
