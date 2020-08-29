@@ -6,5 +6,5 @@ My name is **Adara Townsend**. I have played video games for pretty much my whol
 ## Table of Contents
 - [Class 01: Markdown](https://adard2002.github.io/learning-journal/DISCUSSION_01.html)
 - [Class 02: Command Lines/Terminals and Text Editing](https://adard2002.github.io/learning-journal/DISCUSSION_02.html)
-- [Class 03: Cloning Repositories so you can work in VS Code]()
+- [Class 03: Cloning Repositories so you can work in VS Code](/DISCUSSION_03.md)
 
