@@ -32,21 +32,24 @@ They are files contained within a project which can be maintained on GitHub and/
 **Command**                      | **What the command does**                                                                               |
 :--------------------------------|:-------------------------------------------------------------------------------------------------------:|
 cd                               | Change Directory                                                                                        |
-git commit -m (any message here) | commits a snapshot of an edit you have made to your repository                                          |
-git commit -a                    | commits the snapshots of all edits you have made                                                        |
-git push                         | pushes or uploads your local repository changes to your remote repository                               |
-git push origin master           | pushes/uploads changes from your local "master" branch to the remote repository which is named "origin" |
-git stash                        | when you are not ready to commit changes but you don't want to lose all your progress you've made       |
-git stash apply                  | when you are ready to continue working on the changes                                                   |
+git commit -m (any message here) | Commits a snapshot of an edit you have made to your repository                                          |
+git commit -a                    | Commits the snapshots of all edits you have made                                                        |
+git push                         | Pushes or uploads your local repository changes to your remote repository                               |
+git push origin master           | Pushes/uploads changes from your local "master" branch to the remote repository which is named "origin" |
+git stash                        | When you are not ready to commit changes but you don't want to lose all your progress                   |
+git stash apply                  | When you are ready to continue working on the changes                                                   |
 git init                         | Creates a new repository                                                                                |
-git add *.c                      | adds all files with .c extension                                                                        |
-git add LICENSE                  | adds a license                                                                                          |
-git clone (repository site link) | creates copy of an existing repository                                                                  |
-git status                       | tells you which changes have been staged and what is not being tracked                                  | 
-git add filename                 | tracks just one file in a repository                                                                    |
-git add *                        | tracks all files in a repository                                                                        |
-git remote                       | shows all of your connected remote repositories                                                         |
-git remote -v                    | shows the URL to your remote repositories and it shows you their short names which is "origin"          | 
+git add *.c                      | Adds all files with .c extension                                                                        |
+git add LICENSE                  | Adds a license                                                                                          |
+git clone (repository site link) | Creates copy of an existing repository                                                                  |
+git status                       | Tells you which changes have been staged and what is not being tracked                                  | 
+git add filename                 | Tracks just one file in a repository                                                                    |
+git add *                        | Tracks all files in a repository                                                                        |
+git add .                        | Tells Git you want to make a new commit to a particular file in the next commit you make                |
+git remote                       | Shows all of your connected remote repositories                                                         |
+git remote -v                    | Shows the URL to your remote repositories and it shows you their short names which is "origin"          | 
+
+> You can find more information at [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2) 
 
 
 
