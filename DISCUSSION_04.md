@@ -81,15 +81,17 @@
         <td> &lt;!-- --&gt;</td>
         <td> &lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;div&gt;</td>
         <td> &lt;img src=&ldquo;(link)&rdquo; width=&ldquo;number&rdquo; height=&ldquo;number&rdquo;&gt;</td>
+        <td> &lt;/br&gt;</td>
     </tr>
     <tr>
-        <td>tells everything between the markup that everything is html.</td>
-        <td>contains everything within an HTML document. Should be closed only at the end before the html closing.</td>
-        <td>headers, with 1 through 6 sizes.</td>
-        <td>symbolizes paragraph. Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture.</td>
-        <td>title is displayed at the top at the browser's title bar.</td>
-        <td>usually at the bottom and contains information like copyright and author.</td>
-        <td>is where you put the link to an image. width and height are attributes which determine the width and height in pixels</td>
+        <td>Tells everything between the markup that everything is html.</td><br>
+        <td>Contains everything within an HTML document. Should be closed only at the end before the html closing.</td><br>
+        <td>Headers, with 1 through 6 sizes.</td><br>
+        <td>Symbolizes paragraph. Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture.</td><br>
+        <td>Title is displayed at the top at the browser's title bar.</td><br>
+        <td>Usually at the bottom and contains information like copyright and author.</td><br>
+        <td>Is where you put the link to an image. width and height are attributes which determine the width and height in pixels.</td><br>
+        <td>This is used to force a break line in a sentence so it's not all clumped together.</td>
     </tr>
     </tbody>
      </table>
