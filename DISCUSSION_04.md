@@ -12,7 +12,7 @@
      <img src="https://miro.medium.com/max/490/0*fmTh6pyS31Q3ShmG.jpg" width="490" height="237">
     <li> What is a Wireframe?</li>
     It is a layout of what your web page will look like. It organizes where your navigation bar will be, your logo, your pictures, etc.
-     <img src="https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b.png" width="512" height="118">
+     <img src="https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b.png" width="512" height="512">
     </p>
     </body>
 </html>
