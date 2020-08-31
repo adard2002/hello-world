@@ -75,8 +75,8 @@
         </thead>
     <tbody>
         <tr>
-              <td><div class="vertical">&lt;html&gt;&lt;/html&gt;</div></td>
-              <td>&lt;body&gt;&lt;/body&gt;</td>
+              <div class="vertical"><td>&lt;html&gt;&lt;/html&gt;</td></div>
+              <div class="vertical"><td>&lt;body&gt;&lt;/body&gt;</td></div>
               <td>&lt;h1&gt;&lt;/h1&gt;</td>
               <td>&lt;p&gt;&lt;/p&gt;</td>
               <td>&lt;title&gt;&lt;/title&gt;</td>
