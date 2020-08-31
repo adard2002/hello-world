@@ -21,12 +21,12 @@
     - <b>HTML 4 (Released in 1997)</b>
         - Some markup can be done in CSS now; &lt;center&gt;, &lt;font&gt;, and &lt;strike&gt; 
     - <b>XML (Released in 1998)</b>
-        - Created for writing in a new markup language, this included having people to follow new, more strict rules
+        - Created for writing in a new markup language, this included having people to follow new, more strict rules. <br>
     - <b>XHTML 1.0 (Released in 2000)</b>
         - Since people had to follow the new rules of markup it was decided that people could use one of two formats of XHTML. <br>
-        Transitional XHTML 1.0: Allowed people to use a less strict syntax which let them use some of the older markup
-        Frameset XHTML 1.0: Allowed people to have several frames open. Each of those frames held some different HTML pages. This is the least used.
-    - <b>HTML 5 (Work in Progress)</b>
+        Transitional XHTML 1.0: Allowed people to use a less strict syntax which let them use some of the older markup.<br>
+        Frameset XHTML 1.0: Allowed people to have several frames open. Each of those frames held some different HTML pages. This is the least used.<br>
+    - <b>HTML 5 (Work in Progress)</b> <br>
         - Tags don't have to be closed and new elements and attributes will be introduced. 
     </p>
             <h2>Process of designing a web page</h2>
