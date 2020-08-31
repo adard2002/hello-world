@@ -62,14 +62,12 @@
     <table>
     <tr>
         <th>Table Header</th>
+        <th>Table Header 2</th>
     </tr>
     <tr>
         <td>table cell</td>
         <td>table cell 2</td>
         <td>table cell 3</td>
-    </tr>
-    <tr>
-        <th>Table Header 2</th>
     </tr>
     <tr>
         <td>table 2 cell 1</td>
