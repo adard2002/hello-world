@@ -59,6 +59,7 @@
          </div>
     <p>
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
+    <h2>Some Elements and Attributesto help you get started with HTML</h2>
     <table>
     <tr>
         <th>Element</th>
@@ -76,13 +77,13 @@
         <td> &lt;img src=&ldquo;(link)&rdquo; width=&ldquo;number&rdquo; height=&ldquo;number&rdquo;&gt;</td>
     </tr>
     <tr>
-        <td>table 2 cell 1</td>
-        <td>table 2 cell 2</td>
-        <td>table 2 cell 3</td>
-        <td>table 2 cell 4 </td>
-        <td>table 2 cell 5</td>
-        <td>table 2 cell 6</td>
-        <td>table 2 cell 7</td>
+        <td>tells everything between the markup that everything is html.</td>
+        <td>contains everything within an HTML document. Should be closed only at the end before the html closing.</td>
+        <td>headers, with 1 through 6 sizes.</td>
+        <td>symbolizes paragraph. Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture.</td>
+        <td>title is displayed at the top at the browser's title bar.</td>
+        <td>usually at the bottom and contains information like copyright and author.</td>
+        <td>is where you put the link to an image. width and height are attributes which determine the width and height in pixels</td>
     </tr>
      </table>
     </body>
