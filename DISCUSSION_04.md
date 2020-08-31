@@ -2,6 +2,8 @@
 
 [Home Page](README.md)
 
+<title>DISCUSSION_04</title>
+
 <html>
             <h1>Structure Web Pages with HTML</h1>
     <body>
@@ -60,11 +62,15 @@
     <p>
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
     <h2>Some Elements and Attributesto help you get started with HTML</h2>
-    <table>
+    <div class="col-lg-6 col-sm-6">
+    <table class="table">
+    <thead>
     <tr>
         <th>Element</th>
         <th>What it does</th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
         <td> &lt;html&gt;&lt;/html&gt;</td>
         <td> &lt;body&gt;&lt;/body&gt;</td>
@@ -85,6 +91,8 @@
         <td>usually at the bottom and contains information like copyright and author.</td>
         <td>is where you put the link to an image. width and height are attributes which determine the width and height in pixels</td>
     </tr>
+    </tbody>
      </table>
+     </div>
     </body>
 </html>
