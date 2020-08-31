@@ -8,8 +8,8 @@
             <h2>About HTML</h2>
             <li>What is HTML?</li>
     <p>
-    HTML is an acronym which stands for "Hypertext Markup Language". Let's break that down shall we?
-    - HyperText: means it allows you to make links which lets people who visit the website to switch between tabs quickly.
+    HTML is an acronym which stands for "Hypertext Markup Language". Let's break that down shall we?<br>
+    - HyperText: means it allows you to make links which lets people who visit the website to switch between tabs quickly.<br>
     - Markup Language: markup is the tags we put at the ends of text we want to display. The markup is not displayed on the site. The only times you can see the actually markup is when escape characters are at play. 
             <li>What exactly is HTML code?</li>
     The HTML code has angled brackets which contain characters which are inside angled brackets. The angled brackets are called elements, and these elements have two parts to them. An opening and a closing, the closing element will have a forward slash. This tells the program that that is where the command ends. There are some open ended elements too, such as the &lt;img src&gt;. There are atributes inside of elements also, atributes tell us more about elements. <br>
@@ -19,7 +19,7 @@
             <h2>Evolution of HTML</h2>
     <p>
     <li><b>HTML 4 (Released in 1997):</b></li>
-         Some markup can be done in CSS now; &lt;center&gt;, &lt;font&gt;, and &lt;strike&gt; 
+         Some markup can be done in CSS now; &lt;center&gt;, &lt;font&gt;, and &lt;strike&gt;.
     <li><b>XML (Released in 1998):</b></li>
          Created for writing in a new markup language, this included having people to follow new, more strict rules. <br>
     <li><b>XHTML 1.0 (Released in 2000):</b></li>
@@ -59,5 +59,23 @@
          </div>
     <p>
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
+    <table>
+    <tr>
+        <th>Table Header</th>
+    </tr>
+    <tr>
+        <td>table cell</td>
+        <td>table cell 2</td>
+        <td>table cell 3</td>
+    </tr>
+    <tr>
+        <th>Table Header 2</th>
+    </tr>
+    <tr>
+        <td>table 2 cell 1</td>
+        <td>table 2 cell 2</td>
+        <td>table 2 cell 3</td>
+    </tr>
+     </table>
     </body>
 </html>
