@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 [Home Page](README.md)
 
 <html>
@@ -13,6 +15,19 @@
     The HTML code has angled brackets which contain characters which are inside angled brackets. The angled brackets are called elements, and these elements have two parts to them. An opening and a closing, the closing element will have a forward slash. This tells the program that that is where the command ends. There are some open ended elements too, such as the &lt;img src&gt;. There are atributes inside of elements also, atributes tell us more about elements. <br>
     Example: &lt;p&gt; lang=&ldquo;en-us&rdquo;&gt;Paragraph in English&lt;/p&gt;
     - lang is the _attribute_ name and the "en-us" is the _attribute value_
+    </p>
+            <h2>Evolution of HTML</h2>
+    <p>
+    - <b>HTML 4 (Released in 1997)</b>
+        - Some markup can be done in CSS now; &lt;center&gt;, &lt;font&gt;, and &lt;strike&gt; 
+    - <b>XML (Released in 1998)</b>
+        - Created for writing in a new markup language, this included having people to follow new, more strict rules
+    - <b>XHTML 1.0 (Released in 2000)</b>
+        - Since people had to follow the new rules of markup it was decided that people could use one of two formats of XHTML. <br>
+        Transitional XHTML 1.0: Allowed people to use a less strict syntax which let them use some of the older markup
+        Frameset XHTML 1.0: Allowed people to have several frames open. Each of those frames held some different HTML pages. This is the least used.
+    - <b>HTML 5 (Work in Progress)</b>
+        - Tags don't have to be closed and new elements and attributes will be introduced. 
     </p>
             <h2>Process of designing a web page</h2>
     <p>
