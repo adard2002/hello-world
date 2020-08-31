@@ -13,6 +13,5 @@
     <li> What is a Wireframe?</li>
     <p>It is a layout of what your web page will look like. It organizes where your navigation bar will be, your logo, your pictures, etc.</p>
      <img src="https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b.png" width="512" height="512"> 
-    </p>
     </body>
 </html>
