@@ -71,6 +71,12 @@
     </tr>
     </thead>
     <tbody>
+    <style>
+    th,td {
+        padding: 5px;
+        text-align: left;
+    }
+    </style>
     <tr>
         <td> &lt;html&gt;&lt;/html&gt;</td>
         <td> &lt;body&gt;&lt;/body&gt;</td>
