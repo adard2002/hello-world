@@ -71,12 +71,6 @@
     </tr>
     </thead>
     <tbody>
-    <style>
-    th,td {
-        padding: 5px;
-        text-align: left;
-    }
-    </style>
     <tr>
         <td> &lt;html&gt;&lt;/html&gt;</td>
         <td> &lt;body&gt;&lt;/body&gt;</td>
@@ -105,5 +99,15 @@
      </table>
      </div>
      <!-- I am very confused as to how to get the table to show like the other tables, like the one on the Markdown page. I've looked it up and I can't seem to find an answer. Unless I just didn't see it. But Idk -->
+     <head>
+     <style>
+     table, th, td {
+         border: 1px solid black; 
+         border-collapse: collapse;
+     }
+     th, td {
+         padding: 5px;
+         text-align: left;
+     }
     </body>
 </html>
