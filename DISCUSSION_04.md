@@ -67,12 +67,10 @@
     <tr>
         <td>table cell</td>
         <td>table cell 2</td>
-        <td>table cell 3</td>
     </tr>
     <tr>
         <td>table 2 cell 1</td>
         <td>table 2 cell 2</td>
-        <td>table 2 cell 3</td>
     </tr>
      </table>
     </body>
