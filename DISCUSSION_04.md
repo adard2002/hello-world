@@ -3,6 +3,12 @@
 <html>
             <h1>Structure Web Pages with HTML</h1>
     <body>
+            <h2>About HTML</h2>
+            <li>What is HTML?</li>
+    <p>
+    HTML is an acronym which stands for "Hypertext Markup Language"
+            <li>What exactly is HTML code?</li>
+    The HTML code has angled brackets which contain characters which are inside angled brackets. The angled brackets are called elements, and these elements have two parts to them. An opening and a closing, the closing element will have a forward slash. This tells the program that that is where the command ends. There are some open ended elements too, such as the \<img src\> element.
             <h2>Process of designing a web page</h2>
     <p>
     First, you are going to want to set up a Site Map and a wireframe for your web page. You will probably want to use pencil and paper because you will want to show your customer your making the web pages for will be satisfied with your work. There may be some trial and error getting it what your customer's expectations may be. Down below are an example of each. 
@@ -21,9 +27,12 @@
         <div style="text-align: center;">
          <img src="https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b.png" width="512" height="512"> 
          </div>
-             <h2>Designing Navigation</h2>
+             <h2>What to look for in designing a navigation bar</h2>
     <p>
-        You will want to decide on where you want your Navigation bar to be located; top, left, right, or footer. Once you have figured that part out, it's time to think of what it will look like and how it's going to be easy to understand where the user is at. You will want to make it look nice. Not all cluttered with several different links. Keep the names of the links short and simple such as "Home" and "About Us". Make it easy for the user to understand where they are located in the site, like when they go to the "About Us" page you should have an arrow or some kind of indication they are at that tab. An example can be seen below:
+        - Decide where you want your Nav. Bar located; top, left, right, etc.
+        - Make it look nice appealing to the eye, have your main tabs like "Home" and "About Us" and "Contact"
+        - Once you have your main tabs you can then add your secondary tabs which will show when the user hovers over it or clicks a dropdown arrow.
+        - The users will need some indication as to where they are in your site. Which can be accomplished by several choices; highlighting, arrow, color change, etc.  
     </p>
         <div style="text-align: center;">
     <img src="https://www.jquery-az.com/wp-content/uploads/2015/11/9.3-Bootstrap-navbar-custom.png" width="943" height="210">
