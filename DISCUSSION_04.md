@@ -61,53 +61,41 @@
          </div>
     <p>
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
-    <h2>Some Elements and Attributesto help you get started with HTML</h2>
-    <div class="col-lg-6 col-sm-6">
-    <table class="table">
+    <h2>Some Elements and Attributes to help you get started with HTML</h2>
     <thead>
-    <tr>
-        <th>Element</th>
-        <th>What it does</th>
-    </tr>
+        <tr>
+            <th class="vertical">Element</th>
+            <th class="vertical">What it does</th>
+        </tr>
     </thead>
     <tbody>
-    <tr>
-        <td> &lt;html&gt;&lt;/html&gt;</td>
-        <td> &lt;body&gt;&lt;/body&gt;</td>
-        <td> &lt;h1&gt;&lt;/h1&gt;</td>
-        <td> &lt;p&gt;&lt;/p&gt;</td>
-        <td> &lt;title&gt;&lt;/title&gt;</td>
-        <td> &lt;footer&gt;&lt;/footer&gt;</td>
-        <td> &lt;!-- --&gt;</td>
-        <td> &lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;div&gt;</td>
-        <td> &lt;img src=&ldquo;(link)&rdquo; width=&ldquo;number&rdquo; height=&ldquo;number&rdquo;&gt;</td>
-        <td> &lt;/br&gt;</td>
-    </tr>
-    <tr>
-        <td>Tells everything between the markup that everything is html.</td><br>
-        <td>Contains everything within an HTML document. Should be closed only at the end before the html closing.</td><br>
-        <td>Headers, with 1 through 6 sizes.</td><br>
-        <td>Symbolizes paragraph. Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture.</td><br>
-        <td>Title is displayed at the top at the browser's title bar.</td><br>
-        <td>Usually at the bottom and contains information like copyright and author.</td><br>
-        <td>A comment, can't be seen in the actual browser but can be seen only when you open the code</td>
-        <td>Used to put everything between it in the center.</td>
-        <td>Is where you put the link to an image. width and height are attributes which determine the width and height in pixels.</td><br>
-        <td>This is used to force a break line in a sentence so it's not all clumped together.</td>
-    </tr>
+        <tr>
+            <td> &lt;html&gt;&lt;/html&gt;</td>
+            <td> &lt;body&gt;&lt;/body&gt;</td>
+            <td> &lt;h1&gt;&lt;/h1&gt;</td>
+            <td> &lt;p&gt;&lt;/p&gt;</td>
+            <td> &lt;title&gt;&lt;/title&gt;</td>
+            <td> &lt;footer&gt;&lt;/footer&gt;</td>
+            <td> &lt;!-- --&gt;</td>
+            <td> &lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;div&gt;</td>
+            <td> &lt;img src=&ldquo;(link)&rdquo; width=&ldquo;number&rdquo; height=&ldquo;number&rdquo;&gt;</td>
+            <td> &lt;/br&gt;</td>
+        </tr>
+        <tr>
+            <td>Tells everything between the markup that everything is html.</td><br>
+            <td>Contains everything within an HTML document. Should be closed only at the end before the html closing.</td><br>
+            <td>Headers, with 1 through 6 sizes.</td><br>
+            <td>Symbolizes paragraph. Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture.</td><br>
+            <td>Title is displayed at the top at the browser's title bar.</td><br>
+            <td>Usually at the bottom and contains information like copyright and author.</td><br>
+            <td>A comment, can't be seen in the actual browser but can be seen only when you open the code</td>
+            <td>Used to put everything between it in the center.</td>
+            <td>Is where you put the link to an image. width and height are attributes which determine the width and height in pixels.</td><br>
+            <td>This is used to force a break line in a sentence so it's not all clumped together.</td>
+        </tr>
     </tbody>
      </table>
-     </div>
      <!-- I am very confused as to how to get the table to show like the other tables, like the one on the Markdown page. I've looked it up and I can't seem to find an answer. Unless I just didn't see it. But Idk -->
      <head>
-     <style>
-     table, th, td {
-         border: 1px solid black; 
-         border-collapse: collapse;
-     }
-     th, td {
-         padding: 5px;
-         text-align: left;
-     }
     </body>
 </html>
