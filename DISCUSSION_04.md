@@ -75,21 +75,18 @@
         </thead>
     <tbody>
         <tr>
-        <div class="vertical">
-            <td> &lt;html&gt;&lt;/html&gt;</td>
-            <td> &lt;body&gt;&lt;/body&gt;</td>
-            <td> &lt;h1&gt;&lt;/h1&gt;</td>
-            <td> &lt;p&gt;&lt;/p&gt;</td>
-            <td> &lt;title&gt;&lt;/title&gt;</td>
-            <td> &lt;footer&gt;&lt;/footer&gt;</td>
-            <td> &lt;!-- --&gt;</td>
-            <td> &lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;div&gt;</td>
-            <td> &lt;img src=&ldquo;(link)&rdquo; width=&ldquo;number&rdquo; height=&ldquo;number&rdquo;&gt;</td>
-            <td> &lt;/br&gt;</td>
-        </div>
+              <td><div class="vertical">&lt;html&gt;&lt;/html&gt;</div></td>
+              <td>&lt;body&gt;&lt;/body&gt;</td>
+              <td>&lt;h1&gt;&lt;/h1&gt;</td>
+              <td>&lt;p&gt;&lt;/p&gt;</td>
+              <td>&lt;title&gt;&lt;/title&gt;</td>
+              <td>&lt;footer&gt;&lt;/footer&gt;</td>
+              <td>&lt;!-- --&gt;</td>
+              <td>&lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;div&gt;</td>
+              <td>&lt;img src=&ldquo;(link)&rdquo; width=&ldquo;number&rdquo; height=&ldquo;number&rdquo;&gt;</td>
+              <td>&lt;/br&gt;</td>
         </tr>
         <tr>
-        <div class="vertical">
             <td>Tells everything between the markup that everything is html.</td><br>
             <td>Contains everything within an HTML document. Should be closed only at the end before the html closing.</td><br>
             <td>Headers, with 1 through 6 sizes.</td><br>
@@ -100,7 +97,6 @@
             <td>Used to put everything between it in the center.</td><br>
             <td>Is where you put the link to an image. width and height are attributes which determine the width and height in pixels.</td><br>
             <td>This is used to force a break line in a sentence so it's not all clumped together.</td>
-        </div>
         </tr>
     </tbody>
      </table>
