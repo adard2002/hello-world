@@ -90,6 +90,8 @@
         <td>Symbolizes paragraph. Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture.</td><br>
         <td>Title is displayed at the top at the browser's title bar.</td><br>
         <td>Usually at the bottom and contains information like copyright and author.</td><br>
+        <td>A comment, can't be seen in the actual browser but can be seen only when you open the code</td>
+        <td>Used to put everything between it in the center.</td>
         <td>Is where you put the link to an image. width and height are attributes which determine the width and height in pixels.</td><br>
         <td>This is used to force a break line in a sentence so it's not all clumped together.</td>
     </tr>
