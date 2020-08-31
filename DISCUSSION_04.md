@@ -98,5 +98,6 @@
     </tbody>
      </table>
      </div>
+     <!-- I am very confused as to how to get the table to show like the other tables, like the one on the Markdown page. I've looked it up and I can't seem to find an answer. Unless I just didn't see it. But Idk -->
     </body>
 </html>
