@@ -61,16 +61,28 @@
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
     <table>
     <tr>
-        <th>Table Header</th>
-        <th>Table Header 2</th>
+        <th>Element</th>
+        <th>What it does</th>
     </tr>
     <tr>
-        <td>table cell</td>
-        <td>table cell 2</td>
+        <td> &lt;html&gt;&lt;/html&gt;</td>
+        <td> &lt;body&gt;&lt;/body&gt;</td>
+        <td> &lt;h1&gt;&lt;/h1&gt;</td>
+        <td> &lt;p&gt;&lt;/p&gt;</td>
+        <td> &lt;title&gt;&lt;/title&gt;</td>
+        <td> &lt;footer&gt;&lt;/footer&gt;</td>
+        <td> &lt;!-- --&gt;</td>
+        <td> &lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;div&gt;</td>
+        <td> &lt;img src=&ldquo;(link)&rdquo; width=&ldquo;number&rdquo; height=&ldquo;number&rdquo;&gt;</td>
     </tr>
     <tr>
         <td>table 2 cell 1</td>
         <td>table 2 cell 2</td>
+        <td>table 2 cell 3</td>
+        <td>table 2 cell 4 </td>
+        <td>table 2 cell 5</td>
+        <td>table 2 cell 6</td>
+        <td>table 2 cell 7</td>
     </tr>
      </table>
     </body>
