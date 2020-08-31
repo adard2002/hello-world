@@ -75,8 +75,8 @@
         </thead>
     <tbody>
         <tr>
-              <div class="vertical"><td>&lt;html&gt;&lt;/html&gt;</td></div>
-              <div class="vertical"><td>&lt;body&gt;&lt;/body&gt;</td></div>
+              <td>&lt;html&gt;&lt;/html&gt;</td></div>
+              <td>&lt;body&gt;&lt;/body&gt;</td></div>
               <td>&lt;h1&gt;&lt;/h1&gt;</td>
               <td>&lt;p&gt;&lt;/p&gt;</td>
               <td>&lt;title&gt;&lt;/title&gt;</td>
@@ -100,7 +100,6 @@
         </tr>
     </tbody>
      </table>
-     <!-- I am very confused as to how to get the table to show like the other tables, like the one on the Markdown page. I've looked it up and I can't seem to find an answer. Unless I just didn't see it. But Idk -->
-     <head>
+     <!-- I am very confused as to how to get the table to show like the other tables, like the one on the Markdown page. I've looked it up and I can't seem to figure it out. -->
     </body>
 </html>
