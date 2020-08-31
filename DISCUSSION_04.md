@@ -63,13 +63,13 @@
 
 |     Elements     |        What it does       |
 |:------------------|:------------------:|
-| <html></html>  | Tells everything between the markup that everything is html.  Contains everything within an HTML document.        |
-| <body></body>                | Should be closed only at the end before the html closing  |
-| <h1></h1>                    | Headers, with 1 through 6 sizes. |
-| <p></p>                      | Symbolizes paragraph. |
-| <title></title>              | Title is displayed at the top at the browser's title bar. |
-| <footer></footer>            | Usually at the bottom and contains information like copyright and author. |
-| <!-- -->                     | A comment, can't be seen in the actual browser but can be seen only when you open the code	Used to put everything between it in the center. |
-| 	<div style="text-align: center;"><div> | Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture. |
-| ```html<img src="" width="number" height="number">```  | Is where you put the link to an image.  width and height are attributes which determine the width and height in pixels.	 |
-| </br>  |This is used to force a break line in a sentence so it's not all clumped together.    |
+|<html></html>  | Tells everything between the markup that everything is html.  Contains everything within an HTML document.        |
+|<body></body>                | Should be closed only at the end before the html closing  |
+|<h1></h1>                    | Headers, with 1 through 6 sizes. |
+|<p></p>                      | Symbolizes paragraph. |
+|<title></title>              | Title is displayed at the top at the browser's title bar. |
+|<footer></footer>            | Usually at the bottom and contains information like copyright and author. |
+|<!-- -->                     | A comment, can't be seen in the actual browser but can be seen only when you open the code	Used to put everything between it in the center. |
+|<div style="text-align: center;"><div> | Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture. |
+|<img src="" width="number" height="number">  | Is where you put the link to an image.  width and height are attributes which determine the width and height in pixels.	 |
+|</br>  |This is used to force a break line in a sentence so it's not all clumped together.    |
