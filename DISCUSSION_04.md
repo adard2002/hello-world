@@ -62,8 +62,18 @@
     <p>
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
     <h2>Some Elements and Attributes to help you get started with HTML</h2>
+    <table>
+        <thead>
+          <tr>
+            <th>
+              <div class="vertical">Elements</div>
+            </th>
+            <th>
+              <div class="vertical">What it does</div>
+            </th>
+          </tr>
+        </thead>
     <tbody>
-    <div style="vertical;">
         <tr>
             <td> &lt;html&gt;&lt;/html&gt;</td>
             <td> &lt;body&gt;&lt;/body&gt;</td>
@@ -88,7 +98,6 @@
             <td>Is where you put the link to an image. width and height are attributes which determine the width and height in pixels.</td><br>
             <td>This is used to force a break line in a sentence so it's not all clumped together.</td>
         </tr>
-        </div>
     </tbody>
      </table>
      <!-- I am very confused as to how to get the table to show like the other tables, like the one on the Markdown page. I've looked it up and I can't seem to find an answer. Unless I just didn't see it. But Idk -->
