@@ -1,5 +1,6 @@
 [Home Page](README.md)
 
+<html>
 <title>DISCUSSION_04</title>
             <h1>Structure Web Pages with HTML</h1>
             <h2>About HTML</h2>
@@ -57,6 +58,7 @@
     <p>
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
     <h2>Some Elements and Attributes to help you get started with HTML</h2>
+    </html>
 <table>
     <thead>
         <tr>
