@@ -1,4 +1,5 @@
 [Home Page](README.md)
+<!DOCTYPE html>
 <html>
 <title>DISCUSSION_04</title>
             <h1>Structure Web Pages with HTML</h1>
@@ -59,55 +60,55 @@
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
     <h2>Some Elements and Attributes to help you get started with HTML</h2>
 <table>
-<thead>
-<tr>
-<th align="left">Elements and Attributes</th>
-<th align="left">What they do</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">&lt;html&gt;&lt;/html&gt;</td>
-<td align="left">Tells that everything between the markup that everything is html. Will contain everything within an HTML document.</td>
-</tr>
-<tr>
-<td align="left">&lt;body&gt;&lt;/body&gt;</td>
-<td align="left">It contains everything in an html document as well. Should only be closed at the end before the html tags.</td>
-</tr>
-<tr>
-<td align="left">&lt;h1&gt;&lt;/h1&gt;</td>
-<td align="left">Headers, with 1 through 6 all different sizes.</td>
-</tr>
-<tr>
-<td align="left">&lt;p&gt;&lt;/p&gt;</td>
-<td align="left">Symbolizes paragraph.</td>
-</tr>
-<tr>
-<td align="left">&lt;title&gt;&lt;/title&gt;</td>
-<td align="left">Title is displayed at the top; the browser's title bar tab.</td>
-</tr>
-<tr>
-<td align="left">&lt;footer&gt;&lt;/footer&gt;</td>
-<td align="left">Usually at the bottom and contains information like copyright, author, etc.</td>
-</tr>
-<tr>
-<td align="left">&lt;/br&gt;</td>
-<td align="left">This is used to force a break line in a sentence so it's not all clumped together.</td>
-</tr>
-<tr>
-<td align="left">&lt;&gt;!--(message)--&gt;</td>
-<td align="left">A comment, cannot be seen in the browser so it can only be seen when you open the actual code of the page.</td>
-</tr>
-<tr>
-<td align="left">&lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;/div&gt;</td>
-<td align="left">Should be used often around images to help the words stay together and not break off to show at the bottom of the image. It can be aligned to the right, center, left, etc.</td>
-</tr>
-<tr>
-<td align="left">&lt;img src=&ldquo;(link to image)&rdquo; width=&ldquo;(number)&rdquo; height=&ldquo;(number)&rdquo;&gt;</td>
-<td align="left">Is where you put the link to an image. Width and Height are attributes which determine the width and height in pixels.</td>
-</tr>
-</tbody>
+    <thead>
+        <tr>
+            <th align="left">Elements and Attributes</th>
+            <th align="left">What they do</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">&lt;html&gt;&lt;/html&gt;</td>
+            <td align="left">Tells that everything between the markup that everything is html. Will contain everything within an HTML document.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;body&gt;&lt;/body&gt;</td>
+            <td align="left">It contains everything in an html document as well. Should only be closed at the end before the html tags.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;h1&gt;&lt;/h1&gt;</td>
+            <td align="left">Headers, with 1 through 6 all different sizes.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;p&gt;&lt;/p&gt;</td>
+            <td align="left">Symbolizes paragraph.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;title&gt;&lt;/title&gt;</td>
+            <td align="left">Title is displayed at the top; the browser's title bar tab.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;footer&gt;&lt;/footer&gt;</td>
+            <td align="left">Usually at the bottom and contains information like copyright, author, etc.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;/br&gt;</td>
+            <td align="left">This is used to force a break line in a sentence so it's not all clumped together.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;&gt;!--(message)--&gt;</td>
+            <td align="left">A comment, cannot be seen in the browser so it can only be seen when you open the actual code of the page.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;div style=&ldquo;text-align: center;&rdquo;&gt;&lt;/div&gt;</td>
+            <td align="left">Should be used often around images to help the words stay together and not break off to show at the bottom of the image. It can be aligned to the right, center, left, etc.</td>
+        </tr>
+        <tr>
+            <td align="left">&lt;img src=&ldquo;(link to image)&rdquo; width=&ldquo;(number)&rdquo; height=&ldquo;(number)&rdquo;&gt;</td>
+            <td align="left">Is where you put the link to an image. Width and Height are attributes which determine the width and height in pixels.</td>
+        </tr>
+    </tbody>
 </table>
-    </body>
+</body>
 </html>
 
