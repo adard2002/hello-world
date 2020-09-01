@@ -1,6 +1,5 @@
 [Home Page](README.md)
 <!DOCTYPE html>
-<html>
 <title>DISCUSSION_04</title>
             <h1>Structure Web Pages with HTML</h1>
     <body>
@@ -109,6 +108,5 @@
         </tr>
     </tbody>
 </table>
-</body>
-</html>
+
 
