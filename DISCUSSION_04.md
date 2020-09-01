@@ -1,8 +1,8 @@
 [Home Page](README.md)
 <!DOCTYPE html>
+<html>
 <title>DISCUSSION_04</title>
             <h1>Structure Web Pages with HTML</h1>
-    <body>
             <h2>About HTML</h2>
             <li>What is HTML?</li>
     <p>
@@ -108,6 +108,5 @@
         </tr>
     </tbody>
 </table>
-</body>
-
+</html>
 
