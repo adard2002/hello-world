@@ -66,8 +66,8 @@
 
 Elements     |        What it does       |
 :------------------|:------------------:|
-<html></html>  | Tells everything between the markup that everything is html.  Contains everything within an HTML document.        |
-<body></body>                | Should be closed only at the end before the html closing  |
+&lt;html&gt;&lt;/html&gt;  | Tells everything between the markup that everything is html.  Contains everything within an HTML document.        |
+&lt;body&gt;&lt;/body&gt;           | Should be closed only at the end before the html closing  |
 <h1></h1>                    | Headers, with 1 through 6 sizes. |
 <p></p>                      | Symbolizes paragraph. |
 <title></title>              | Title is displayed at the top at the browser's title bar. |
