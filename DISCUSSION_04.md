@@ -58,10 +58,34 @@
     <p>
     In this example you can see they are located at the "Home" page and are looking at the "Bootstrap" tab. Which has a few choices of pages to go to. It's not clutered, it's easy to read and simple to follow.</p>
     <h2>Some Elements and Attributes to help you get started with HTML</h2>
-
-
+    <table>
+<thead>
+<tr>
+<th align="left">header 1</th>
+<th align="center">header 2</th>
+<th align="right">header 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cell 1.1</td>
+<td align="center">cell 1.2</td>
+<td align="right">cell 1.3</td>
+</tr>
+<tr>
+<td align="left">cell 2.1</td>
+<td align="center">cell 2.2</td>
+<td align="right">cell 2.3</td>
+</tr>
+</tbody>
+</table>
     </body>
 </html>
+
+
+
+
+
 
 
 Elements     |        What it does       |
@@ -77,21 +101,4 @@ Elements     |        What it does       |
 <img src="" width="number" height="number">  | Is where you put the link to an image.  width and height are attributes which determine the width and height in pixels.	 |
 </br>  |This is used to force a break line in a sentence so it's not all clumped together.    |
 
-<table>
-<thead>
-<tr>
-<th>header 1</th>
-<th>header 2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>cell 1.1</td>
-<td>cell 1.2</td>
-</tr>
-<tr>
-<td>cell 2.1</td>
-<td>cell 2.2</td>
-</tr>
-</tbody>
-</table>
+
