@@ -1,6 +1,7 @@
 [Home Page](README.md)
 
 <!DOCTYPE html>
+<html>
 <title>DISCUSSION_04</title>
             <h1>Structure Web Pages with HTML</h1>
             <h2>About HTML</h2>
@@ -108,4 +109,4 @@
         </tr>
     </tbody>
 </table>
-
+</html>
