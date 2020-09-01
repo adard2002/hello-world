@@ -61,7 +61,9 @@
     </body>
 </html>
 
-<body>
+*testing*
+
+
 Elements     |        What it does       |
 :------------------|:------------------:|
 <html></html>  | Tells everything between the markup that everything is html.  Contains everything within an HTML document.        |
@@ -74,5 +76,5 @@ Elements     |        What it does       |
 <div style="text-align: center;"><div> | Should be used quite often around images to help the words stay together and not break off in the middle by the bottom of the picture. |
 <img src="" width="number" height="number">  | Is where you put the link to an image.  width and height are attributes which determine the width and height in pixels.	 |
 </br>  |This is used to force a break line in a sentence so it's not all clumped together.    |
-</body>
+
 
