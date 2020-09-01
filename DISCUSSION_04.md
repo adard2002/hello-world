@@ -62,17 +62,17 @@
 <thead>
 <tr>
 <th align="left">Elements and Attributes</th>
-<th align="center">What they do</th>
+<th align="left">What they do</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="left">cell 1.1</td>
-<td align="center">cell 1.2</td>
+<td align="left">cell 1.2</td>
 </tr>
 <tr>
 <td align="left">cell 2.1</td>
-<td align="center">cell 2.2</td>
+<td align="left">cell 2.2</td>
 </tr>
 </tbody>
 </table>
