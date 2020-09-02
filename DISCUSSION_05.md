@@ -1,6 +1,4 @@
----
 theme: jekyll-theme-hacker
----
 
 <body>
     <title>DISCUSSION_05</title>
