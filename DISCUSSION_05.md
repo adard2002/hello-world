@@ -1,8 +1,7 @@
 <a href="README.md">Home Page</a>
 
-
+<title>DISCUSSION_05</title>
 <body>
-    <title>DISCUSSION_05</title>
         <h1>Design web pages with CSS</h1>
         <h2>What is CSS?</h2>
         CSS stands for Cascading Style Sheets, since HTML was just the structure of a web page CSS is putting all of the details on the structure.
