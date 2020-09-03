@@ -11,7 +11,7 @@
         <li>How does it work?</li>
         The thing to pay attention too trying to understand how CSS works is there is a box around all of the HTML elements. <br>
         CSS works by cooperating with the rules of HTML elements. These rules control how the content of specified elements will be shown throughout the site.
-        The rules of CSS contains two parts. One being a <b>Selector</b> and the other being a <u>declaration</u>.
+        The rules of CSS contains two parts. One being a <b>Selector</b> and the other being a <u>declaration</u>. <br>
                 Example: <b>p</b>{ 
                     <u>font-family: Arial; </u>}
         - <b>Selectors:</b> 
