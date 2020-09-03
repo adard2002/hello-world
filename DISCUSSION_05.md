@@ -15,7 +15,19 @@
                     <u>font-family: Arial;</u>}<br>
         - <b>Selectors:</b> tell which element the rule applies to. In the example above this tells you that everything within the &lt;p&gt; will be changed.<br>
         - <u>Declaration:</u> tells which rule is going to be applied to the element. In the example above this tells you it wants to change everything to the Arial font.<br>
-
+        <p>
+        CSS declarations sit inside curly brackets and is made up of two parts: a <b>property</b> and a <u>value</u>, separated by a colon. You can specify several properties within a declaration by separating them by a semi-colon. <br>
+                Example: h1, h2, h3 {<br>
+                                <b>font-family:</b> <u>Arial;</u><br>
+                                <b>color:</b> <u>yellow;</u><br>
+                                }
+        
+        
+        
+        
+        
+        
+        </p>
 
 </body>
 </html>
