@@ -5,6 +5,10 @@
 <title>DISCUSSION_05</title>
 <body>
         <h1>Design web pages with CSS</h1>
+        <h2>Evolution of CSS</h2>
+        <li><b>CSS1 (Released in 1996)</b></li>
+        <li><b>CSS2 (Released in 1998)</b></li>
+        <li><b>CSS3 (World in Progress but some browsers have already started to implement it)</b></li>
          - What is CSS?
         CSS stands for Cascading Style Sheets, since HTML was just the structure of a web page CSS is putting all of the details on the structure.
          - How does it work?
@@ -94,6 +98,12 @@
         </tr>
     </tbody>
 </table>
+        <h2>Implementing Colors</h2>
+        <h3>How can you specify colors in CSS?</h3>
+        <p>There are a total of three ways to do this:<br>
+        <b>RGB Values</b>
+        These express colors by telling how much Red, Green and blue are used to make up that specific color.
+        <li>Example:</li> p { <br> color: rgb(100,100,90);}
 
 </body>
 </html>
