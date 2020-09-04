@@ -64,32 +64,32 @@
         </tr>
         <tr>
             <td align="left">Class Selector</td>
-            <td align="left">Matches an element whos id attribute has a value that is a pound or hash symbol.</td>
+            <td align="left">Matches element whose calss attribute has a value that matches the one specified after the period symbol.</td>
             <td align="left">p.note {} Targets only &lt;p&gt; elements whose class attribute has a value of note.</td>
         </tr>
         <tr>
             <td align="left">ID Selector</td>
-            <td align="left"></td>
-            <td align="left"></td>
+            <td align="left">Matches an elements whose id is attribute has the pound or hash symbol.</td>
+            <td align="left">#introduction {}</td>
             </tr>
         <tr>
             <td align="left">Child Selector</td>
-            <td align="left"></td>
-            <td align="left"></td>
+            <td align="left">Matches element that is a direct child of another</td>
+            <td align="left">li&gt;a{} Targets any &lt;a&gt; elements that are children of an &lt;li&gt; element.</td>
         </tr>
         <tr>
             <td align="left">Desendant Selector</td>
-            <td align="left"></td>
-            <td align="left"></td>
+            <td align="left">Matches an element that is a specified element</td>
+            <td align="left">p a{} this targets any &lt;a&gt; elements that are inside a &lt;p&gt; element. Even if there are other elements nested between them </td>
         </tr>
         <tr>
             <td align="left">Adjacent Sibling Selector</td>
-            <td align="left"></td>
-            <td align="left"></td>
+            <td align="left">Matches the next element sibling of another</td>
+            <td align="left">h1+p {} Targets the first &lt;p&gt; element after any &lt;h1&gt; element.</td>
         </tr>
         <tr>
             <td align="left">General Sibling Selector</td>
-            <td align="left"></td>
+            <td align="left">Matches an element that is a sibling of another. Even when it doesn't need to be the direct next element.</td>
             <td align="left"></td>
         </tr>
     </tbody>
