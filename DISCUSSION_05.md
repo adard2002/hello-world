@@ -98,12 +98,24 @@
         </tr>
     </tbody>
 </table>
+        <h3>How to add a comment in CSS</h3>
+        /* (msg here) */
         <h2>Implementing Colors</h2>
-        <h3>How can you specify colors in CSS?</h3>
-        <p>There are a total of three ways to do this:<br>
-        <b>RGB Values</b>
+                <h3>How can you specify colors in CSS?</h3>
+                <p>There are a total of three ways to do this:<br>
+        <b>RGB Values:</b>
         These express colors by telling how much Red, Green and blue are used to make up that specific color.
         <li>Example:</li> p { <br> color: rgb(100,100,90);}
-
+        <b>Hex Codes:</b> 
+        6 digit codes that represent how much red, green, and blue are in the color. They have a hash # sign before them.
+        <li>Example:</li> h2 { <br> color:#ee3e80;}
+        <b>Color Names:</b> 
+        There are a total of 147 predefined color names that are recognized by browsers.
+        <li>Example:</li> h1 {<br> color:DarkCyan;}
+        <h3>CSS3: HSL Colors</h3>
+        <b>H: Hue-</b> expressed as an angle. (0 - 360)
+        <b>S: Saturation-</b> expressed as a percentage.
+        <b>L: Lightness-</b> expressed as a percentage with 0% being white, 50% being normal, and 100% being black.
+        <b>a: Alpha-</b> expressed as a number between 0 and 0.1. For example, 0.5 represents 50% transparency and 0.75 represents 75% transparency.
 </body>
 </html>
