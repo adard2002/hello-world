@@ -54,34 +54,42 @@
     <tbody>
         <tr>
             <td align="left">Universal Selector</td>
-            <td align="left"></td>
+            <td align="left">Applies to all elements in the document.</td>
+            <td align="left">*{ } </td>
         </tr>
         <tr>
             <td align="left">Type Selector</td>
+            <td align="left">Matches element names</td>
             <td align="left"></td>
         </tr>
         <tr>
             <td align="left">Class Selector</td>
+            <td align="left">Matches an element whos id attribute has a value that is a pound or hash symbol.</td>
             <td align="left"></td>
         </tr>
         <tr>
             <td align="left">ID Selector</td>
             <td align="left"></td>
+            <td align="left"></td>
             </tr>
         <tr>
             <td align="left">Child Selector</td>
+            <td align="left"></td>
             <td align="left"></td>
         </tr>
         <tr>
             <td align="left">Desendant Selector</td>
             <td align="left"></td>
+            <td align="left"></td>
         </tr>
         <tr>
             <td align="left">Adjacent Sibling Selector</td>
             <td align="left"></td>
+            <td align="left"></td>
         </tr>
         <tr>
             <td align="left">General Sibling Selector</td>
+            <td align="left"></td>
             <td align="left"></td>
         </tr>
     </tbody>
