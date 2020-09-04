@@ -21,13 +21,28 @@
                                 <b>font-family:</b> <u>Arial;</u><br>
                                 <b>color:</b> <u>yellow;</u><br>
                                 }
-        
-        
-        
-        
-        
+        - <b>property:</b> indicates the aspects you want to change. In this case it's color and the font. But there more aspects such as width, height, and border. <br>
+        - <u>value:</u> specifies the settings you want to apply to the aspects you want to change. In this case the font family is going to be Arial and the color is going to be yellow <br>
+        </p>
+        <p>
+        &lt;link&gt; used in an HTML document to tell the browser where the CSS file is that was used to style the page. It lives inside of the &lt;head&gt; element and doesn't need a closing tag. It should use 3 attributes being:<br>
+        - href: specifies the path or location of the CSS file. (often placed in a folder called CSS or styles).<br>
+        - type: specifies the type of document being linked to. Value should be text/css.<br>
+        - rel: specifies the relationship between the HTML page and the file it is being linked too. If it's being linked to a CSS file the value should be stylesheet.<br>
+        <b>Example:</b>
+                &lt;head&gt;<br>
+                        &lt;title&gt;Using External CSS&lt;/title&gt;
+                        
         
         </p>
+
+
+
+
+
+
+
+
 
 </body>
 </html>
