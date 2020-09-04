@@ -43,7 +43,7 @@
         Allow you to target specific elements in an HTML document.<br>
 
 
-<table>
+<table style="width:100%">
     <thead>
         <tr>
             <th align="left">Selector</th>
