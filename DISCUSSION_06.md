@@ -56,17 +56,17 @@ var greeting;</span></p><br>
 <span class="pinkText">pink curly braces</span> indicate start and end of a code block. <br>
 <span class="dodgerBlue">blue code</span> determines which code should run.<br>
         <h2>Data Types</h2>
-    - Numeric: Handles numbers. Example: 0.75
-    - String: Letters and other characteristics. Example: 'Hi, Ivy!'
-    - Boolean: Show one of two values; true or false. Is like a light switch only two outcomes.
+    - Numeric: Handles numbers. Example: 0.75<br>
+    - String: Letters and other characteristics. Example: 'Hi, Ivy!'<br>
+    - Boolean: Show one of two values; true or false. Is like a light switch only two outcomes.<br>
 Quotes should always be straight. <br>
 String should always be writtin in one line. <br>
         <h2>Rules for naming variables</h2>
-    1. Name must begin with either a letter, dollar sign, or underscore, can never start with a number. 
-    2. Cannot use a dash or a period in a variable name.
-    3. Cannot use keywords or reserved words such as var.
-    4. Case sensitive.
-    5. Use a short and simple name that describes the variable info. Like "firstName" or "lastName"
-    6. If your variable is made up of multiple words make sure the first letter of the first word is lowercase and after the first word every word must start with a capital.
+    1. Name must begin with either a letter, dollar sign, or underscore, can never start with a number. <br>
+    2. Cannot use a dash or a period in a variable name.<br>
+    3. Cannot use keywords or reserved words such as var.<br>
+    4. Case sensitive.<br>
+    5. Use a short and simple name that describes the variable info. Like "firstName" or "lastName"<br>
+    6. If your variable is made up of multiple words make sure the first letter of the first word is lowercase and after the first word every word must start with a capital.<br>
 </body>
 </html>
