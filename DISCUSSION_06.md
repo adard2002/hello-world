@@ -35,9 +35,22 @@
 - <span class="blueText">3</span>; Variable Value <br>
 The Value in this case is <span class="deepPink">quantity</span>.<br>
 </p>
-
-
-
+        <h2>What are Statements and Code Blocks?</h2>
+<p><span class="greenText">Var today = new Date(); <br>
+var hourNow = today.getHours();<br>
+var greeting;</span></p><br>
+<p>
+<span class="dodgerBlue">if (hourNow > 18)</span><span class="pinkText">;</span><br>
+<p class="tab"><span class="greenText">greeting = 'Good evening';</span></p><br>
+<span class="pinkText">}</span> <span class="dodgerBlue">else if (hourNow > 12)</span><span class="pinkText">{</span><br>
+<p class="tab"><span class="greenText">greeting = 'Good afternoon';</span></p><br>
+<span class="pinkText">}</span> <span class="dodgerBlue">else if (hourNow > 0)</span> <span class="pinkText">{</span><br>
+<p class="tab"><span class="greenText">greeting = 'Good morning';</span></p><br>
+<span class="pinkText">}</span> <span class="dodgerBlue">else</span> <span class="pinkText">{</span><br>
+<p class="tab"><span class="greenText">greeting = 'Welcome';</span></p><br>
+<span class="pinkText">}</span><br>
+<span class="greenText">document.write(greeting);</span>
+</p>
 
 
 
