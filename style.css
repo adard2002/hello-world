@@ -1,19 +1,33 @@
 
 .pinkText {
-    color: pink;
+    color: rgb(231, 160, 172);
 }
-.greenText {
-    color: lightgreen;
+
+.deepPink {
+    color: deeppink
 }
 .yellowText {
     color: rgb(255, 255, 153); 
 }
 
+.greenText {
+    color: rgb(158, 255, 158);
+}
 
+.blueText {
+    color: lightskyblue
+}
 
+.dodgerBlue {
+    color: dodgerblue
+}
 
+.purpleText {
+    color: slateblue
+}
 
-
-
+.lightPurple {
+    color: mediumslateblue
+}
 
 
