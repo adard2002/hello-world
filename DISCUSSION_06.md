@@ -29,11 +29,11 @@
 - <span class="deepPink">var</span>: Variable Keyword; you must give the variable a name, sometimes called an identifier. As you can see in this case the variable is called <span class="blueText">quanity</span>.<br>
 - <span class="blueText">quantity</span>: Variable Name; If it is more than one word you will have to use Camel case which means the first word is going to be lowercase and the beginning of every word after the first word will be uppercase. Example: camelCase</p><br>
         <h2>Variable names, values, and Assignment Operator</h2>
-<p><span class="deepPink">quantity</span> <span class="greenText">=</span> <span class="blueText">3</span>;
-- <span class="deepPink">quantity</span>; Variable Name 
-- <span class="greenText">=</span>; Assignment Operator; says you are going to assign a value to the variable.
-- <span class="blueText">3</span>; Variable Value
-The Value in this case is <span class="deepPink">quantity</span>.
+<p><span class="deepPink">quantity</span> <span class="greenText">=</span> <span class="blueText">3</span>;<br>
+- <span class="deepPink">quantity</span>; Variable Name<br>
+- <span class="greenText">=</span>; Assignment Operator; says you are going to assign a value to the variable.<br>
+- <span class="blueText">3</span>; Variable Value <br>
+The Value in this case is <span class="deepPink">quantity</span>.<br>
 </p>
 
 
