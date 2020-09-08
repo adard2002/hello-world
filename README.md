@@ -7,5 +7,6 @@ My name is **Adara Townsend**. I have played video games for pretty much my whol
 - [Class 01: Markdown](https://adard2002.github.io/learning-journal/DISCUSSION_01.html)
 - [Class 02: Command Lines/Terminals and Text Editing](https://adard2002.github.io/learning-journal/DISCUSSION_02.html)
 - [Class 03: Cloning Repositories so you can work in VS Code](/DISCUSSION_03.md)
-- [Class 04: Structuring Web Pages with HTML](/DISCUSSION_04.md)
+- [Class 04: Structuring Web Pages with HTML](/DISCUSSION_04.html)
 - [Class 05: Structuring Web Pages with CSS](/DISCUSSION_05.md)
+- [Class 06: Dynamic web pages with JavaScript](/DISCUSSION_06.html)
