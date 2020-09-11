@@ -21,19 +21,19 @@
         Expressions rely of things call operators. Operators make it able for programmers to create a single value from one or more values. We will be introducing five different types of operators.<br>
         1. <u>Assignment Operators</u><br>
         Give a value to a variable. In this example the value of a color is now beige.<br>
-        <span class="greenText">color = 'beige';</span><br>
+        - <span class="greenText">color = 'beige';</span><br>
         2. <u>Arithmetic Operators</u><br>
         Perform basic math, In this example the value of area is 6.<br>
-        <span class="greenText">area = 3 * 2;</span><br>
+        - <span class="greenText">area = 3 * 2;</span><br>
         3. <u>String Operators</u><br>
         Combine two strings. This example shows the value of greeting is set to Hi Molly. The characters within the single quotes (' ') are the strings.<br>
-        <span class="greenText">greeting = 'Hi ' + 'Molly';</span><br>
+        - <span class="greenText">greeting = 'Hi ' + 'Molly';</span><br>
         4. <u>Comparison Operators</u><br>
         Compares two values and tells you it's either true or false. This example shows the value of buy is false.<br>
-        <span class="greenText">buy = 3 > 5;</span><br>
+        - <span class="greenText">buy = 3 > 5;</span><br>
         5. <u>Logical Operators</u><br>
         Combines expressions and tells whether it's true or false. This example shows the value of buy is now true.<br>
-        <span class="greenText">buy = (5 > 3) && (2 < 4);</span><br>
+        - <span class="greenText">buy = (5 > 3) && (2 < 4);</span><br>
 <!--This is a table that goes with the Arithmetic Operators-->
         <h2>More about Arithmetic Operators</h2>
 <table style="width:100%">
@@ -98,6 +98,17 @@
         </tr>
     </tbody>
 </table>
+        Multiplication and Division are done before addition and subtraction. Let's look over some examples.<br>
+        - Example: Calculated from left to right so the total will come out to be 16.<br>
+        <span class="greenText">total = 2 + 4 + 10;</span><br>
+        - Example: This will come out to be 42, not 60, the reasoning for this is because multiplication and division happen before addition and subtraction.<br>
+        <span class="greenText">total = 2 + 4 * 10;</span><br>
+        -Example: This will come out to a total of 60 now because the parenthesis indicate that the 2 is adding to the 4 and the outcome of that is multiplied by 10. The parenthesis also indicate which calculation you to be done first.<br>
+        <span class="greenText">total = (2 + 4) * 10;</span><br>
+
+
+
+
 
 </body>
 </html>
