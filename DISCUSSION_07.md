@@ -99,17 +99,44 @@
     </tbody>
 </table>
         Multiplication and Division are done before addition and subtraction. Let's look over some examples.<br>
-        - Example: Calculated from left to right so the total will come out to be 16.<br>
+        - <b>Example:<b> Calculated from left to right so the total will come out to be 16.<br>
         <span class="greenText">total = 2 + 4 + 10;</span><br>
-        - Example: This will come out to be 42, not 60, the reasoning for this is because multiplication and division happen before addition and subtraction.<br>
+        - <b>Example:</b> This will come out to be 42, not 60, the reasoning for this is because multiplication and division happen before addition and subtraction.<br>
         <span class="greenText">total = 2 + 4 * 10;</span><br>
-        -Example: This will come out to a total of 60 now because the parenthesis indicate that the 2 is adding to the 4 and the outcome of that is multiplied by 10. The parenthesis also indicate which calculation you to be done first.<br>
+        - <b>Example:</b> This will come out to a total of 60 now because the parenthesis indicate that the 2 is adding to the 4 and the outcome of that is multiplied by 10. The parenthesis also indicate which calculation you to be done first.<br>
         <span class="greenText">total = (2 + 4) * 10;</span><br>
-
-
-
-
-
+        <h2>String Operator</h2>
+        Only one string operator which is the + symbol. What this does is merges two strings into one. This process of merging two strings onto one is called Concatenation. Here are some examples:<Br>
+        - <b>Example:</b><br>
+        <span class="greenText">var firstName = 'Ivy ';</span><br>
+        <span class="greenText">var lastName = 'Stone';</span><br>
+        <span class="greenText">var fullName = firstName + lastName;</span><br>
+        This variable called fullName would hold the string 'Ivy Stone'. There must be a space in the firstName after Ivy because if there's no space then there would be no space in the outcome.<br>
+        - <b>Example:</b><br>
+        <span class="greenText">var cost1 = '7';</span><br>
+        <span class="greenText">var cost2 = '9';</span><br>
+        <span class="greenText">var total = cost1 + cost2;</span><br>
+        Ends up with a string saying '79'<br>
+        - <b>Example:</b><br>
+        <span class="greenText">var number = 12;</span><br>
+        <span class="greenText">var street = 'Ivy Road';</span><br>
+        <span class="greenText">var add = number + street;</span><br>
+        Ends up with a string '12Ivy Road'<br>
+        - <b>Example:</b><br>
+        <span class="greenText">var score = 'seven';</span><br>
+        <span class="greenText">var score2 = 'nine';</span><br>
+        <span class="greenText">var total = score * score2;</span><br>
+        ends with "NaN" which means "not a number"
+        <h2>Functions</h2>
+        <h3>What is a function?</h3>
+        Functions let you group a series of statements together to perform certain tasks. To create a function it must be given a name and inside the curly braces put int he statements needed to achieve it's goal.<br>
+        - <span class="deepPink">function keyword</span><br>
+        - <span class="pinkText">function name</span><br>
+        - <span class="blueText">code block (in curly braces)</span><br>
+        <b>Example:</b><br>
+        <span class="deepPink">function</span><span class="pinkText">sayHello()</span><span class="blueText">{</span><br>
+        <span class="blueText">document.write('Hello!');</span><br>
+        <span class= "blueText">}</span><br>
 </body>
 </html>
 
