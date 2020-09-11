@@ -11,3 +11,4 @@ My name is **Adara Townsend**. I have played video games for pretty much my whol
 - [Class 05: Structuring Web Pages with CSS](/DISCUSSION_05.md)
 - [Class 06: Dynamic web pages with JavaScript](/DISCUSSION_06.md)
 - [Class 06b: Computer Architecture and Logic](/DISCUSSION_06b.md)
+- [Class 07: Programming with JavaScript](/DISCUSSION_07.md)
