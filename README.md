@@ -12,3 +12,4 @@ My name is **Adara Townsend**. I have played video games for pretty much my whol
 - [Class 06: Dynamic web pages with JavaScript](/DISCUSSION_06.md)
 - [Class 06b: Computer Architecture and Logic](/DISCUSSION_06b.md)
 - [Class 07: Programming with JavaScript](/DISCUSSION_07.md)
+- [Class 08: Operators and Loops](/DISCUSSION_08.md)
