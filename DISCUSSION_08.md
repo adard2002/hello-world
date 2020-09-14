@@ -49,10 +49,10 @@
     </thead>
     <tbody>
         <tr>
-            <td align="left">></td>
-            <td align="left"><</td>
-            <td align="left">>=</td>
-            <td align="left"><=</td>
+            <td align="center">></td>
+            <td align="center"><</td>
+            <td align="center">>=</td>
+            <td align="center"><=</td>
         </tr>
         <tr>
             <td align="left">This operator makes sure the number on the left is greater than the number on the right.</td>
@@ -62,21 +62,21 @@
         </tr>
         <tr>
             <td align="left">
-                <span class="pinkText">4</span> > <span class="pinkText">3</span> returns <span class="greenText">true</span>
-                <span class="pinkText">3</span> > <span class="pinkText">4</span> returns <span class="deepPink">false</span>
+                <span class="pinkText">4</span> > <span class="pinkText">3</span> returns <span class="greenText">true</span><br>
+                <span class="pinkText">3</span> > <span class="pinkText">4</span> returns <span class="deepPink">false</span><br>
             </td>
             <td align="left">
-                <span class="pinkText">4</span> < <span class="pinkText">3</span> returns <span class="deepPink">false</span>
-                <span class="pinkText">3</span> < <span class="pinkText">4</span> returns <span class="greenText">true</span>
+                <span class="pinkText">4</span> < <span class="pinkText">3</span> returns <span class="deepPink">false</span><br>
+                <span class="pinkText">3</span> < <span class="pinkText">4</span> returns <span class="greenText">true</span><br>
             </td>
             <td align="left">
-                <span class="pinkText">4</span> >= <span class="pinkText">3</span> returns <span class="greenText">true</span>
-                <span class="pinkText">3</span> >= <span class="pinkText">4</span> returns <span class="deepPink">false</span>
-                <span class="pinkText">3</span> >= <span class="pinkText">3</span> returns <span class="greenText">true</span>
+                <span class="pinkText">4</span> >= <span class="pinkText">3</span> returns <span class="greenText">true</span><br>
+                <span class="pinkText">3</span> >= <span class="pinkText">4</span> returns <span class="deepPink">false</span><br>
+                <span class="pinkText">3</span> >= <span class="pinkText">3</span> returns <span class="greenText">true</span><br>
             </td>
             <td align="left">
-                <span class="pinkText">4</span> <= <span class="pinkText">3</span> returns <span class="deepPink">false</span>
-                <span class="pinkText">3</span> <= <span class="pinkText">4</span> returns <span class="greenText">true</span>
+                <span class="pinkText">4</span> <= <span class="pinkText">3</span> returns <span class="deepPink">false</span><br>
+                <span class="pinkText">3</span> <= <span class="pinkText">4</span> returns <span class="greenText">true</span><br>
                 <span class="pinkText">3</span> <= <span class="pinkText">3</span> returns <span class="greenText">true</span>
             </td>
         </tr>
