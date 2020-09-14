@@ -8,12 +8,12 @@
     <h1>Operators and Loops</h1>
         <h2>Comparison Operators: Evaluating Conditions</h2>
                 You can assess a situation by comparing one value in the script to what you think it might be. The result will be a boolean (true or false).
-                <table style="width:100%">
+<table style="width:100%">
     <thead>
         <tr>
             <th align="left">Is equal to</th>
             <th align="left">Is not equal to</th>
-            <th align="left">Strict Equal to</th>
+            <th align="left">Strict equal to</th>
             <th align="left">Strict not equal to</th>
         </tr>
     </thead>
@@ -38,23 +38,50 @@
         </tr>
     </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<table style="width:100%">
+    <thead>
+        <tr>
+            <th align="left">Greater Than</th>
+            <th align="left">Less Than</th>
+            <th align="left">Greater Than or Equal To</th>
+            <th align="left">Less Than or Equal to</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">></td>
+            <td align="left"><</td>
+            <td align="left">>=</td>
+            <td align="left"><=</td>
+        </tr>
+        <tr>
+            <td align="left">This operator makes sure the number on the left is greater than the number on the right.</td>
+            <td align="left">This operator makes sure the number on the right is greater than the number on the left.</td>
+            <td align="left">This operator makes sure the number on the left is greater than or equal to the number on the right.</td>
+            <td align="left">This operator makes sure the number on the right is greater than or equal to the number on the left.</td>
+        </tr>
+        <tr>
+            <td align="left">
+                <span class="pinkText">4</span> > <span class="pinkText">3</span> returns <span class="greenText">true</span>
+                <span class="pinkText">3</span> > <span class="pinkText">4</span> returns <span class="deepPink">false</span>
+            </td>
+            <td align="left">
+                <span class="pinkText">4</span> < <span class="pinkText">3</span> returns <span class="deepPink">false</span>
+                <span class="pinkText">3</span> < <span class="pinkText">4</span> returns <span class="greenText">true</span>
+            </td>
+            <td align="left">
+                <span class="pinkText">4</span> >= <span class="pinkText">3</span> returns <span class="greenText">true</span>
+                <span class="pinkText">3</span> >= <span class="pinkText">4</span> returns <span class="deepPink">false</span>
+                <span class="pinkText">3</span> >= <span class="pinkText">3</span> returns <span class="greenText">true</span>
+            </td>
+            <td align="left">
+                <span class="pinkText">4</span> <= <span class="pinkText">3</span> returns <span class="deepPink">false</span>
+                <span class="pinkText">3</span> <= <span class="pinkText">4</span> returns <span class="greenText">true</span>
+                <span class="pinkText">3</span> <= <span class="pinkText">3</span> returns <span class="greenText">true</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 
