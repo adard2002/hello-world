@@ -32,8 +32,8 @@
         </tr>
         <tr>
             <td align="left">'<span class="pinkText">Hello</span>' == '<span class="pinkText">Goodbye</span>' returns <span class="deepPink">false</span> because they are not the same string.<br>'<span class="pinkText">Hello</span>' === '<span class="pinkText">Hello</span>' returns <span class="greenText">true</span> because they are the same string</td>
-            <td align="left">'<span class="pinkText">3</span>' === <span class="pinkText">3</span> returns <span class="deepPink">false</span> because they are not the same data type or value.<br> '<span class="pinkText">3</span>' === '<span class="pinkText">3</span>' returns <span class="greenText">true</span> because they are the same data type and value.</td>
             <td align="left">'<span class="pinkText">Hello</span>' != '<span class="pinkText">Goodbye</span>' returns <span class="greenText">true</span> because they are not the same string.<br>'<span class="pinkText">Hello</span>' === '<span class="pinkText">Hello</span>' returns <span class="deepPink">false</span> because they are the same string</td>
+            <td align="left">'<span class="pinkText">3</span>' === <span class="pinkText">3</span> returns <span class="deepPink">false</span> because they are not the same data type or value.<br> '<span class="pinkText">3</span>' === '<span class="pinkText">3</span>' returns <span class="greenText">true</span> because they are the same data type and value.</td>
             <td align="left">'<span class="pinkText">3</span>' === <span class="pinkText">3</span> returns <span class="greenText">true</span> because they are not the same data type or value.<br> '<span class="pinkText">3</span>' === '<span class="pinkText">3</span>' returns <span class="deepPink">false</span> because they are the same data type and value.</td>
         </tr>
     </tbody>
