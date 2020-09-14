@@ -137,7 +137,7 @@
             <b>For:</b> This is the most common loop, which has a condition that is usually a counter which is used to tell how times a loop should run.<br>
             <b>While:</b> If you don't know how many times you want the code to run, this will loop as long as the condition is true.<br>
             <b>Do While:</b> This is very similar to the while loop, the difference is it will always run the statements inside the curly braces no matter the condition. It can even evaluate to false.<br>
-            <span class="pinkText">for</span> <span class="blueText">(var i = 0; i < 10; i++)</span> <span class="greenText">{<br>document.write(i);<br>}</span>
+            <span class="pinkText">for</span> <span class="blueText">(var i = 0; i < 10; i++)</span> <span class="greenText">{<br>document.write(i);<br>}</span><br>
             <span class="pinkText">for</span>: Keyword<br>
             <span class="blueText">(var i = 0; i < 10; i++)</span>: Condition<br>
             <span class="greenText">{ document. write(i); }</span>: Code that will execute during the loop<br>
