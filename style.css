@@ -6,6 +6,11 @@
 .deepPink {
     color: deeppink
 }
+
+.redText {
+    color: rgb(255, 0, 0)
+}
+
 .yellowText {
     color: rgb(255, 255, 153); 
 }
@@ -30,4 +35,7 @@
     color: mediumslateblue
 }
 
+.grayText {
+    color: rgb(151, 151, 151)
+}
 
