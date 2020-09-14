@@ -82,12 +82,60 @@
         </tr>
     </tbody>
 </table>
+        <h2>Local Operators</h2>
+            <table style="width:100%">
+    <thead>
+        <tr>
+            <th align="center">Logical And</th>
+            <th align="center">Logical Or</th>
+            <th align="center">Logical Not</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">This operator tests more than one condition.</td>
+            <td align="center">This operator tests at least one condition.</td>
+            <td align="center">This operator takes a single boolean value and inverts it.</td>
+        </tr>
+        <tr>
+            <td align="center">((2 < 5) && (3 >= 2))<br> returns <span class="greenText">true</span></td>
+            <td align="center">((2 < 5) || (2 < 1))<br> returns <span class="greenText">true</span></td>
+            <td align="center">!(2 < 1) returns <span class="greenText">true</span></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <span class="greenText">true</span> && <span class="greenText">true</span> returns <span class="greenText">true</span><br>
+                <span class="greenText">true</span> && <span class="deepPink">false</span> returns <span class="deepPink">false</span><br>
+                <span class="deepPink">false</span> && <span class="greenText">true</span> returns <span class="deepPink">false</span><br>
+                <span class="deepPink">false</span> && <span class="deepPink">false</span> returns <span class="deepPink">false</span>
+            </td>
+            <td align="center">
+                <span class="greenText">true</span> || <span class="greenText">true</span> returns <span class="greenText">true</span><br>
+                <span class="greenText">true</span> || <span class="deepPink">false</span> returns <span class="greenText">true</span><br>
+                <span class="deepPink">false</span> || <span class="greenText">true</span> returns <span class="greenText">true</span><br>
+                <span class="deepPink">false</span> || <span class="deepPink">false</span> returns <span class="deepPink">false</span>
+                </td>
+            <td align="center">
+                !<span class="greenText">true</span> returns <span class="deepPink">false</span><br>
+                <span class="deepPink">false</span> returns <span class="greenText">true</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 
 
 
 
+            Comparison operators usually give only one of two values which are: <span class="greenText">true</span> or <span class="deepPink">false</span>. Logical operators give you the ability to compare the results of more than one comparison operator.<br>
+            <span class="pinkText">(</span><span class="blueText">(5 < 2)</span> <span class="yellowText">&&</span> <span class="lightPurple">(2 >= 3)</span><span class="pinkText">)</span><br>
+            There are a total of three expressions which will resolve to either <span class="greenText">true</span> or <span class="deepPink">false</span>. The expressions on the left and the right (expressions 1 and 2) both use comparison operators and both return <span class="deepPink">false</span>. The third expression uses a logical operator. The logical and operator check to see if both expressions on the sides return <span class="greenText">true</span> but in this case they don't so the whole thing evaluates to <span class="deepPink">false</span>.
+            <span class="blueText">(5 < 2)</span>: Expression 1: Is five less than two? The result is <span class="deepPink">false</span>.<br>
+            <span class="lightPurple">(2 >= 3)</span>: Expression 2: Is two greater than or equal to three? The result is also <span class="deepPink">false</span>.<br>
+            <span class="pinkText">()</span>: Everything within these parenthesis are Expression 3<br>
+            <span class="yellowText">&&</span>: This is a Logical Operator<br>
+            
 
 
 </body>
