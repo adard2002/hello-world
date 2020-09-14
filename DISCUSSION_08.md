@@ -12,22 +12,22 @@
     <thead>
         <tr>
             <th align="left">Is equal to</th>
-            <th align="left">Strict Equal to</th>
             <th align="left">Is not equal to</th>
+            <th align="left">Strict Equal to</th>
             <th align="left">Strict not equal to</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td align="left">==</td>
-            <td align="left">===</td>
             <td align="left">!=</td>
+            <td align="left">===</td>
             <td align="left">!==</td>
         </tr>
         <tr>
             <td align="left">This operator compares two values such as numbers, strings or booleans to see if they are the same.</td>
-            <td align="left">This is the prefered operator to use which compares two values to check if both the data type and the value are the same.</td>
             <td align="left">This operator compares two values such as numbers, strings, or booleans to see if they are not the same.</td>
+            <td align="left">This is the prefered operator to use which compares two values to check if both the data type and the value are the same.</td>
             <td align="left">This is the prefered operator to use which compares two values to check if both the data type and the value are not the same.</td>
         </tr>
         <tr>
