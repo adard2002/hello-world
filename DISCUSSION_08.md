@@ -150,6 +150,16 @@
             <span class="greenText">msg += i + ' x 5 = ' + (i * 5) + '&lt;br/&gt;';</span><br>
             <span class="greenText">i++;</span><br>
             <span class="greenText">}</span><br>
-            <span class="greenText">document.getElementById('answer').innerHTML = msg;</span>
+            <span class="greenText">document.getElementById('answer').innerHTML = msg;</span><br>
+        <h3>Result:</h3>
+            1 x 5 = 5<br>
+            2 x 5 = 10<br>
+            3 x 5 = 15<br> 
+            4 x 5 = 20<br>
+            5 x 5 = 25<br>
+            6 x 5 = 30<br>
+            7 x 5 = 35<br>
+            8 x 5 = 40<br>
+            9 x 5 = 45<br>
 </body>
 </html>
